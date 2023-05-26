@@ -4,6 +4,14 @@
 
 
 
-.homeNav a{
-    text-decoration: none;
+.name-title {
+    font-size: 35px;
 }
+
+.navItems {
+    text-decoration: none;
+    color: white;
+    
+}
+
+
