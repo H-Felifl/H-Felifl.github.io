@@ -14,4 +14,17 @@
     
 }
 
+.navDeco{
+    background-color: rgba(5, 2, 3, 0.9);
+}
 
+
+/* .frontWallpaper {
+    background-image: url("/media/wallpapertip_wallpaper-hd-laptop_1369543.jpg");
+    background-size: cover;
+    height: 650px;
+} */
+
+.skl {
+    height: 500px;
+}
