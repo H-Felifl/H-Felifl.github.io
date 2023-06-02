@@ -25,6 +25,37 @@
     height: 650px;
 } */
 
-.skl {
-    height: 500px;
+.skududu-1 {
+    background-image: url("/media/ales-nesetril-Im7lZjxeLhg-unsplash-high.jpg");
+    background-size: cover;
+    height: 670px;
 }
+
+.skududu-2 {
+    background-image: url("/media/anas-alshanti-feXpdV001o4-unsplash-high.jpg");
+    background-size: cover;
+    height: 670px;
+}
+
+.skududu-3 {
+    background-image: url("/media/lee-campbell-DtDlVpy-vvQ-unsplash-high.jpg");
+    background-size: cover;
+    height: 670px;
+}
+
+ a {
+    text-decoration: none;
+}
+
+.about_section {
+    background-color: rgb(23, 23, 16);
+    height: 670px;
+}
+
+/* .pf_svg {
+    padding: 16px;
+    border: 2px solid white;
+    border-radius: 50px;
+    width: 100px;
+   margin-left: 450px;
+} */
