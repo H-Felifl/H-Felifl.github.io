@@ -28,19 +28,19 @@
 .skududu-1 {
     background-image: url("/media/ales-nesetril-Im7lZjxeLhg-unsplash-high.jpg");
     background-size: cover;
-    height: 670px;
+    height: 100vh;
 }
 
 .skududu-2 {
     background-image: url("/media/anas-alshanti-feXpdV001o4-unsplash-high.jpg");
     background-size: cover;
-    height: 670px;
+    height: 100vh;
 }
 
 .skududu-3 {
     background-image: url("/media/lee-campbell-DtDlVpy-vvQ-unsplash-high.jpg");
     background-size: cover;
-    height: 670px;
+    height: 100vh;
 }
 
  a {
@@ -49,9 +49,37 @@
 
 .about_section {
     background-color: rgb(23, 23, 16);
-    height: 450px;
+    height: 100vh;
+}
+.aboutText p{
+    font-family:cursive ;
 }
 
+.about-card1 {
+    width: 202px;
+    background-color: rgb(23, 23, 16);
+    border: none;
+}
+
+.about-card2 {
+    width: 202px;
+    background-color: rgb(23, 23, 16);
+    border: none;
+}
+
+.about-card3 {
+    width: 202px;
+    background-color: rgb(23, 23, 16);
+    border: none;
+}
+
+.aboutSchoolImg {
+    width: 200px;
+}
+
+.projects_section {
+    height: 100vh;
+}
 /* .pf_svg {
     padding: 16px;
     border: 2px solid white;
