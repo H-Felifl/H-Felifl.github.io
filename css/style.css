@@ -2,6 +2,7 @@
 
 
 
+/* nav section */
 
 
 .name-title {
@@ -18,13 +19,10 @@
     background-color: rgba(5, 2, 3, 0.9);
 }
 
+/* End nav section */
 
 
-/* .frontWallpaper {
-    background-image: url("/media/wallpapertip_wallpaper-hd-laptop_1369543.jpg");
-    background-size: cover;
-    height: 650px;
-} */
+/* Home section */
 
 .skududu-1 {
     background-image: url("/media/ales-nesetril-Im7lZjxeLhg-unsplash-high.jpg");
@@ -47,6 +45,11 @@
  a {
     text-decoration: none;
 }
+
+/* End Home section */
+
+
+/* About section */
 
 .about_section {
     background-color: rgb(23, 23, 16);
@@ -78,6 +81,10 @@
     width: 200px;
 }
 
+/* End About section */
+
+/* Project section */
+
 .projects_section {
     background-color: rgb(230, 222, 222);
     
@@ -87,13 +94,32 @@
     height: 400px;
 }
 
+/* End Project section */
+
+/* Contact section */
+
+.contact_section {
+    background-color: rgb(23, 23, 16);
+}
+
+/* End Contact section */
 
 
 
 /* LOB opdrachten sectie */
 
-.periode2_design {
+.periode1_design {
     background-color: rgb(238, 242, 250);
+    
+}
+
+.periode2_design {
+    background-color: rgb(222, 220, 245);
+}
+
+.periode3_design {
+    background-color: rgb(238, 242, 250);
+
 }
 
 
